@@ -21,8 +21,10 @@ sys.setdefaultencoding('utf-8')
 
 
 resultImgsDir = resultpath
-
+##single pic image 
 bgiDir = bgipath
+
+##bgi image to paste on
 bigbgiDir = bgipath2
 
 gTtf= ttfpath
